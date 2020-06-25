@@ -8,4 +8,6 @@ To run the program you simply need to run "node substringquestion.js"
 
 If you want to change the inputs change the variables text and words on lines 64 and 65
 
-If cloning from a git repo make sure to run the following 
+If cloning from a git repo make sure to run the following command
+
+npm install
